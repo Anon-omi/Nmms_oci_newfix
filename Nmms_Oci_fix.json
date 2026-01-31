@@ -10,9 +10,9 @@
     {
     "id": "ad74e9a009a77f7d",
     "username": "anon",
-    "password": "12345",
+    "password": "anon",
     "expiresAt": "2030-02-02",
-    "allowOffline": false
+    "allowOffline": true
   }
     
 ]
